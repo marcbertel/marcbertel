@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @marcbertel
-- 👀 I currently work in intelligent automation (RPA & AI).
+- 🤝 Welcome to my home !
+- 👀 I currently work in the field of intelligent automation, with strong expertise in Robotic Process Automation (RPA), Machine Learning and Computer vision.
 - 📫 For any question, you can contact me at marc.bertel@lemonadvice.fr
 
 <!---
